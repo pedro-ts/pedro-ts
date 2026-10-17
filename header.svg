@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Pedro Torres — Software Engineer, Backend and Design">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#111D31"/></linearGradient><linearGradient id="accent"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263549" stroke-width=".7"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect x="650" width="550" height="340" fill="url(#grid)" opacity=".45"/>
+<rect x="54" y="55" width="40" height="5" rx="2.5" fill="url(#accent)"/><text x="110" y="62" fill="#8CA0BC" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">ENGINEERING WITH A PRODUCT MINDSET</text>
+<text x="52" y="143" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="65" font-weight="700" letter-spacing="-2">Pedro Torres<tspan fill="#38BDF8">.</tspan></text>
+<text x="56" y="186" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="25">Software Engineer · Backend</text>
+<text x="56" y="228" fill="#8CA0BC" font-family="Arial,sans-serif" font-size="16">PHP / Laravel / APIs / Integrations / SQL</text>
+<rect x="56" y="265" width="245" height="31" rx="15.5" fill="#163146" stroke="#23546D"/><text x="76" y="286" fill="#7DD3FC" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">BACKEND + FRONTEND + DESIGN</text>
+<g fill="none" stroke="#38BDF8" stroke-width="2"><path d="M805 135H865V200H922M865 135H970V110M865 135V82H915" opacity=".55"/><rect x="744" y="109" width="90" height="52" rx="12" fill="#14263A"/><rect x="924" y="174" width="126" height="52" rx="12" fill="#14263A"/><rect x="968" y="82" width="119" height="52" rx="12" fill="#14263A"/><circle cx="921" cy="82" r="7" fill="#A78BFA" stroke="#A78BFA"/><circle cx="865" cy="135" r="5" fill="#38BDF8"/></g>
+<g fill="#BAE6FD" font-family="monospace" font-size="17"><text x="773" y="142">API</text><text x="957" y="207">DATA</text><text x="988" y="115">PRODUCT</text></g>
+<path d="M54 319H1146" stroke="url(#accent)" stroke-width="2" opacity=".65"/>
+</svg>
